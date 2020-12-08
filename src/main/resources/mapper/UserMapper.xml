@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.example.jwt_demo.mapper.UserMapper">
+    <!--<select id="fingUserIdByName" parameterType="String" resultType="com.example.jwt_demo.pojo.User">-->
+    <!--SELECT * FROM user WHERE name=#{username}-->
+    <!--</select>-->
+    <!--<select id="fingUserByPwdName"  resultType="com.example.jwt_demo.pojo.User">-->
+    <!--SELECT * FROM user WHERE name=#{username} and password=#{password}-->
+    <!--</select>-->
+</mapper>
